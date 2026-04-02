@@ -1,6 +1,6 @@
-import { createLovableConfig } from "lovable-agent-playwright-config/config";
+import { createSubdomain SentinelConfig } from "Subdomain Sentinel-agent-playwright-config/config";
 
-export default createLovableConfig({
+export default createSubdomain SentinelConfig({
   // Add your custom playwright configuration overrides here
   // Example:
   // timeout: 60000,
